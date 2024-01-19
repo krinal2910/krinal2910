@@ -2,7 +2,7 @@
 # Welcome to Krinal Patel's GitHub Profile
 
 ## About Me
-Hello there! 👋 I'm **Krinal Patel** [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://twitter.com/magnologan)](https://www.linkedin.com/in/krinal-p/) , a passionate data analyst actively seeking new job opportunities. With a strong foundation in data analysis and a knack for deriving meaningful insights from complex datasets, I am eager to contribute my skills to exciting projects and teams.
+Hello there! 👋 I'm **Krinal Patel**, a passionate data analyst actively seeking new job opportunities. With a strong foundation in data analysis and a knack for deriving meaningful insights from complex datasets, I am eager to contribute my skills to exciting projects and teams.
 
 ## 📊 Data Analysis Skills
 - **Statistical Analysis**: Proficient in statistical methods and hypothesis testing.
@@ -35,13 +35,10 @@ Feel free to check the full interactive dashboards by clicking on the images.
 
 
 ## 🌐 Connect with Me
-- [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/krinal2910)
-- 
+- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://twitter.com/magnologan)](https://www.linkedin.com/in/krinal-p/) 
 - [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://krinal2910.github.io/Portfolio.github.io/)
+- [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krinalp0629@gmail.com)
 
 Feel free to reach out if you're interested in collaborating on data-driven projects or if you have exciting job opportunities!
-
-## 📫 How to Reach Me
-- **Email**: krinalp0629@gmail.com 
 
 Let's make data tell a story together! 🚀

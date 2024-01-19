@@ -38,6 +38,7 @@ Feel free to check the full interactive dashboards by clicking on the images.
 - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://twitter.com/magnologan)](https://www.linkedin.com/in/krinal-p/) 
 - [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://krinal2910.github.io/Portfolio.github.io/)
 - [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krinalp0629@gmail.com)
+- [![Mail Me](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krinalp0629@gmail.com)
 
 Feel free to reach out if you're interested in collaborating on data-driven projects or if you have exciting job opportunities!
 
